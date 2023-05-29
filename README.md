@@ -5,7 +5,8 @@
 
 Фотографија од control flow graph-ot
 
-<img width="266" alt="Control flow graph" src="https://github.com/Marinceski1/SI_2023_lab2_213279/assets/108797974/a1747699-62a1-4934-943b-0011da22c62f">
+<img width="266" alt="Control flow graph" src="https://github.com/Marinceski1/SI_2023_lab2_213279/assets/108797974/a1a012d9-6802-4a62-ae82-e4b7173621cc">
+
 
 # Цикломатска комплекност
 
